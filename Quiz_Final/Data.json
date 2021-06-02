@@ -1,0 +1,97 @@
+[
+  {
+    "index": "1",
+    "question": "What is part of a database that holds only one type of information?",
+    "answer": "Field",
+    "items":["Report","Field","Record","File"]
+
+  },
+  {
+    "index": "1",
+    "question": "'OS' computer abbreviation usually means",
+    "answer": "Operating System",
+    "items":["Order of Significance","Open Software","Operating System","Optical Sensor"]
+
+  },
+  {
+    "index": "1",
+    "question": "Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+    "answer": "Flash",
+    "items":["Flash","Flange","Fury","FRAM"]
+
+  },
+  {
+    "index": "1",
+    "question": "Who developed Yahoo?",
+    "answer": "David Filo & Jerry Yang",
+    "items":["Dennis Ritchie & Ken Thompson","David Filo & Jerry Yang","Vint Cerf & Robert Kahn","Steve Case & Jeff Bezos"]
+
+  },
+  {
+    "index": "1",
+    "question": "What type of file has a .7Z extension?",
+    "answer": "Compressed archive",
+    "items":["Compressed archive","Browser plug-in","Vector image","Presentation"]
+  },
+  {
+    "index": "2",
+    "question": "Which among the following is used in surgery?",
+    "answer": "Nitrous oxide",
+    "items":["Carbon dioxide","Nitrous oxide","Water gas","Carbon monoxide"]
+  },
+  {
+    "index": "2",
+    "question": "What is the chemical name of table salt?",
+    "answer": "Sodium Chloride",
+    "items":["Sodium Chloride","Sulphur Acid","Potassium Chloride","Magnesium Chloride"]
+  },
+  {
+    "index": "2",
+    "question": "Hydrogen (H) is an element of …",
+    "answer": "s block",
+    "items":["s block","p block","d block","f block"]
+  },
+  {
+    "index": "2",
+    "question": "What is chemical name of Quick lime?",
+    "answer": "Calcium oxide",
+    "items":["Calcium sulphate","Zinc oxide","Sodium silicate","Calcium oxide"]
+  },
+  {
+    "index": "2",
+    "question": "Oxygen (O) is an element of …",
+    "answer": "p block",
+    "items":["s block","p block","d block","f block"]
+  },
+  {
+    "index": "3",
+    "question": "A candle transforms …",
+    "answer": "Chemical energy into light and heat energy",
+    "items":["Mechanical energy into electrical energy","Chemical energy into light and heat energy","Sound energy into electrical energy","Electrical energy into sound energy"]
+  },
+  {
+    "index": "3",
+    "question": "Which among the following waves is used by Wireless communication to carry signals?",
+    "answer": "Electromagnetic waves",
+    "items":["Electromagnetic waves","Radio waves","Ultrasonic waves","Infrasonic waves"]
+  },
+  {
+    "index": "3",
+    "question": "Who had invented ‘Carburettor'?",
+    "answer": "Morey",
+    "items":["Wynne","Lanchester","Braun","Morey"]
+  },
+  {
+    "index": "3",
+    "question": "Which among the following is a paramagnetic?",
+    "answer": "Platinum",
+    "items":["Nickel","Platinum","Iron","Copper"]
+  },
+  {
+    "index": "3",
+    "question": "Who has given the concept of ‘Blackbody'?",
+    "answer": "Kirchhoff",
+    "items":["Kirchhoff","Clausius","Maxwell","Weber"]
+  }
+
+]
